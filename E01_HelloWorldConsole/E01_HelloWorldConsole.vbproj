@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>HelloWorldConsole</RootNamespace>
     <TargetFramework>net7.0</TargetFramework>
+    <OptionStrict>On</OptionStrict>
   </PropertyGroup>
 
 </Project>
