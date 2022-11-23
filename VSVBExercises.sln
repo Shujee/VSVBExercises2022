@@ -17,7 +17,9 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "E06_TryCatch", "E06_TryCatc
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "E07_MultiThreading", "E07_MultiThreading\E07_MultiThreading.vbproj", "{9555B059-6B95-423B-9A62-FAEEF70F7513}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "E08_SketchBoard", "E08_SketchBoard\E08_SketchBoard.vbproj", "{75F01C09-1E20-4E22-8D01-6BBF03FDF654}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "E08_SketchBoard", "E08_SketchBoard\E08_SketchBoard.vbproj", "{75F01C09-1E20-4E22-8D01-6BBF03FDF654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E09_Data1", "E09_Data1\E09_Data1.csproj", "{4297DCB9-7AD0-4F10-B01C-42B3D9BF3D35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{75F01C09-1E20-4E22-8D01-6BBF03FDF654}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75F01C09-1E20-4E22-8D01-6BBF03FDF654}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75F01C09-1E20-4E22-8D01-6BBF03FDF654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4297DCB9-7AD0-4F10-B01C-42B3D9BF3D35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4297DCB9-7AD0-4F10-B01C-42B3D9BF3D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4297DCB9-7AD0-4F10-B01C-42B3D9BF3D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4297DCB9-7AD0-4F10-B01C-42B3D9BF3D35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
